@@ -107,7 +107,7 @@ avg_compactness_up_bound =
 avg_concavity_up_bound =
 avg_concave_points_up_bound =
 
-avg_radius_low_bound = avg_radius + (avg_radius*.4)
+avg_radius_low_bound = avg_radius - (avg_radius*.4)
 avg_texture_low_bound = avg_texture
 avg_perimeter_low_bound = 
 avg_area_low_bound = 
